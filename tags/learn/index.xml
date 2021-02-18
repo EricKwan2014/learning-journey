@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learn on Eric&#39;s Learning Journey</title>
+    <link>https://erickwan2014.github.io/learning-journey/tags/learn/</link>
+    <description>Recent content in learn on Eric&#39;s Learning Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://erickwan2014.github.io/learning-journey/tags/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publish a private npm repo</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/private-npm-repo/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/private-npm-repo/</guid>
+      <description>&lt;p&gt;WIP&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
