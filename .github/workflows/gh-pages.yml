@@ -3,9 +3,9 @@ name: github pages
 on:
   push:
     paths-ignore:
-      - 'images/**'
-      - 'LICENSE'
-      - 'README.md'
+      - "images/**"
+      - "LICENSE"
+      - "README.md"
     branches:
       - master
   workflow_dispatch:
@@ -18,7 +18,8 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
         with:
-          ref: master
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Get Theme
         run: git submodule update --init --recursive
@@ -29,13 +30,13 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: "latest"
 
       - name: Build
-        run: hugo --buildDrafts --gc --verbose --minify
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public

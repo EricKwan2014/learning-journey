@@ -1,4 +1,4 @@
-baseURL: "https://EricKwan2014.github.io/learning-journey/"
+baseURL: "https://erickwan2014.github.io/learning-journey/"
 title: Eric's Learning Journey
 paginate: 5
 theme: PaperMod
@@ -31,7 +31,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "WIP"
+    Title: "WIP Testing"
     Content: >
       WIP
 
