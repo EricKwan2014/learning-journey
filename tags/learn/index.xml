@@ -7,12 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://erickwan2014.github.io/learning-journey/tags/learn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publish a private npm repo</title>
+      <title>Publish a private npm repo using Lerna</title>
       <link>https://erickwan2014.github.io/learning-journey/posts/private-npm-repo/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://erickwan2014.github.io/learning-journey/posts/private-npm-repo/</guid>
-      <description>&lt;p&gt;WIP&lt;/p&gt;</description>
+      <description>Introducing Lerna Lerna is a tool that optimizes the workflow around managing multi-package repositories with Git and npm.
+Blockquote  Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.
+— Rob Pike 1
+ Getting started npm i -g lerna # or yarn global add lerna # To install dependencies for all packages lerna bootstrap # Remove the node_modules directory from all packages. https://github.com/lerna/lerna/#clean# lerna clean # Import the package in the local path &amp;lt;pathToRepo&amp;gt; into packages/&amp;lt;directory-name&amp;gt; with commit history lerna import &amp;lt;pathToRepo&amp;gt; # To run all the tests (if the corresponding script, &amp;#34;test&amp;#34; exists) lerna run test Step to npm publish  Update the packages/working-lib and commit your works Make sure your lib is working properly (consider using jest/other testing tools in your lib) Bump-up the version in packages/working-lib/package.</description>
     </item>
     
   </channel>
