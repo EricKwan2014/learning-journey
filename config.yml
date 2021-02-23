@@ -31,9 +31,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "WIP Testing"
+    Title: "Welcome to visit my learning journey"
     Content: >
-      WIP
+      "I think, fundamentally, open source does tend to be more stable software. It's the right way to do things." — Linus Torvalds
 
   socialIcons:
     - name: github
