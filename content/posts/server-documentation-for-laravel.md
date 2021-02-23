@@ -9,7 +9,7 @@ title: "Server Documentation for Laravel"
 showToc: false
 ---
 
-![logo](/content/images/2017/08/11130f096dbec743756b69cbb22f9.jpg)
+![logo](/learning-journey/images/2017/08/11130f096dbec743756b69cbb22f9.jpg)
 
 Just to state the obvious for anyone viewing this discussion.... if you give any of your folders 777 permissions, you are allowing ANYONE to read, write and execute any file in that directory.... what this means is you have given ANYONE (any hacker or malicious person in the entire world) permission to upload ANY file, virus or any other file, and THEN execute that file...
 

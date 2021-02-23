@@ -9,7 +9,7 @@ tags: ["hackathon", "bitwise"]
 title: "BitwiseHacks 2016"
 ---
 
-![logo](/content/images/2017/08/13403123_1203540116336622_3027913756514543616_o.jpg)
+![logo](/learning-journey/images/2017/08/13403123_1203540116336622_3027913756514543616_o.jpg)
 
 ## Adroitness
 
