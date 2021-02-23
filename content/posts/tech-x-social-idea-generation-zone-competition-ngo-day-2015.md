@@ -10,7 +10,7 @@ title: "Tech X Social Idea Generation Zone Competition, NGO Day 2015"
 showtoc: false
 ---
 
-![logo](/content/images/2017/08/20150615-1-779x389.png)
+![logo](/learning-journey/images/2017/08/20150615-1-779x389.png)
 
 ######
 
@@ -30,4 +30,4 @@ on 2 June 2015 in which presented SociMechaniX, an
 integrated human-centered Customer Relationship
 Management Systems for the NGOs. At the end, they won
 Most Popular By Audience Award.
-![ngo_day](/content/images/2017/08/ngo_day.png)
+![ngo_day](/learning-journey/images/2017/08/ngo_day.png)

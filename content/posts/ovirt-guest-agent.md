@@ -9,7 +9,7 @@ tags: ["oVirt", "VMs"]
 title: "How to install the ovirt-guest-agent in Ubuntu"
 ---
 
-![logo](/content/images/2017/09/ovirt-guestagent-001-700x210.png)
+![logo](/learning-journey/images/2017/09/ovirt-guestagent-001-700x210.png)
 
 ## Step 1
 
