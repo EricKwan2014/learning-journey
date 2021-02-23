@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reverse-proxy on Eric&#39;s Learning Journey</title>
+    <link>https://erickwan2014.github.io/learning-journey/categories/reverse-proxy/</link>
+    <description>Recent content in reverse-proxy on Eric&#39;s Learning Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Aug 2017 14:09:31 +0000</lastBuildDate><atom:link href="https://erickwan2014.github.io/learning-journey/categories/reverse-proxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Nginx as a Reverse Proxy</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/using-nginx-as-a-reverse-proxy/</link>
+      <pubDate>Fri, 04 Aug 2017 14:09:31 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/using-nginx-as-a-reverse-proxy/</guid>
+      <description>Why nginx It&amp;rsquo;s not any better/worse at serving static files than Apache. However, the big difference is that nginx can serve a lot more users without using up additional resources.
+Example Setup Firstly, you need to create a site configuration at /etc/nginx/sites-available
+cd /etc/nginx/sites-available sudo [vim/nano(any editor)] yoursite.com.conf  Then you can ready to prototype your coding
+Below are the example server coding setup and will be describe deeply later.</description>
+    </item>
+    
+  </channel>
+</rss>

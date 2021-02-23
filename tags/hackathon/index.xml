@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon on Eric&#39;s Learning Journey</title>
+    <link>https://erickwan2014.github.io/learning-journey/tags/hackathon/</link>
+    <description>Recent content in hackathon on Eric&#39;s Learning Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Apr 2016 16:39:00 +0000</lastBuildDate><atom:link href="https://erickwan2014.github.io/learning-journey/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BitwiseHacks 2016</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/bitwisehacks-2016/</link>
+      <pubDate>Tue, 12 Apr 2016 16:39:00 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/bitwisehacks-2016/</guid>
+      <description>Adroitness WINNER Judges&#39; Choice Inspiration When elderly home alone, they got nothing to do. Adroitness provide a simple and safe exercise training for them.
+What it does It detects the gesture and the motion through the exercise.
+How we built it We build an Android Prototype with Beacon (Estimote).
+Challenges we ran into motion detection.
+Accomplishments that we&amp;rsquo;re proud of fulfill corporate social responsibility
+What we learned M2X, CC3200 Launch Pad</description>
+    </item>
+    
+  </channel>
+</rss>

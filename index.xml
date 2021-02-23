@@ -18,5 +18,63 @@ Blockquote  Don&amp;rsquo;t communicate by sharing memory, share memory by commu
  Getting started npm i -g lerna # or yarn global add lerna # To install dependencies for all packages lerna bootstrap # Remove the node_modules directory from all packages. https://github.com/lerna/lerna/#clean# lerna clean # Import the package in the local path &amp;lt;pathToRepo&amp;gt; into packages/&amp;lt;directory-name&amp;gt; with commit history lerna import &amp;lt;pathToRepo&amp;gt; # To run all the tests (if the corresponding script, &amp;#34;test&amp;#34; exists) lerna run test Step to npm publish  Update the packages/working-lib and commit your works Make sure your lib is working properly (consider using jest/other testing tools in your lib) Bump-up the version in packages/working-lib/package.</description>
     </item>
     
+    <item>
+      <title>How to install the ovirt-guest-agent in Ubuntu</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/ovirt-guest-agent/</link>
+      <pubDate>Fri, 01 Sep 2017 03:36:08 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/ovirt-guest-agent/</guid>
+      <description>Step 1 Please follow this link in order to install the ovirt-guest-agent in Ubuntu
+Step 2 Type the below commands to make sure the ovirt-guest-agent will autostart when VMs startup
+systemctl enable ovirt-guest-agent systemctl start ovirt-guest-agent Conclusion You learn how to install the ovirt guest agent and obtain additional information about the VM.</description>
+    </item>
+    
+    <item>
+      <title>Using Nginx as a Reverse Proxy</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/using-nginx-as-a-reverse-proxy/</link>
+      <pubDate>Fri, 04 Aug 2017 14:09:31 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/using-nginx-as-a-reverse-proxy/</guid>
+      <description>Why nginx It&amp;rsquo;s not any better/worse at serving static files than Apache. However, the big difference is that nginx can serve a lot more users without using up additional resources.
+Example Setup Firstly, you need to create a site configuration at /etc/nginx/sites-available
+cd /etc/nginx/sites-available sudo [vim/nano(any editor)] yoursite.com.conf  Then you can ready to prototype your coding
+Below are the example server coding setup and will be describe deeply later.</description>
+    </item>
+    
+    <item>
+      <title>Server Documentation for Laravel</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/server-documentation-for-laravel/</link>
+      <pubDate>Thu, 06 Apr 2017 17:30:00 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/server-documentation-for-laravel/</guid>
+      <description>Just to state the obvious for anyone viewing this discussion&amp;hellip;. if you give any of your folders 777 permissions, you are allowing ANYONE to read, write and execute any file in that directory&amp;hellip;. what this means is you have given ANYONE (any hacker or malicious person in the entire world) permission to upload ANY file, virus or any other file, and THEN execute that file&amp;hellip;
+Full Documentation
+The NORMAL way to set permissions is to have your files owned by the webserver: sudo chown -R $(whoami):www-data /path/to/your/root/directory  Then you set all your directories to 755 and your files to 644&amp;hellip; SET file permissions sudo find /path/to/your/root/directory -type f -exec chmod 644 {} \; sudo find /path/to/your/root/directory -type d -exec chmod 755 {} \;  Whichever way you set it up, then you need to give read and write permissions to the webserver for storage, cache and any other directories the webserver needs to upload or write too (depending on your situation), so run the commands from bash above sudo chgrp -R www-data storage bootstrap/cache sudo chmod -R ug+rwx storage bootstrap/cache  If there are any updated version and there are any mistaken, feel free to modifiy it :) Thanks =)</description>
+    </item>
+    
+    <item>
+      <title>BitwiseHacks 2016</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/bitwisehacks-2016/</link>
+      <pubDate>Tue, 12 Apr 2016 16:39:00 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/bitwisehacks-2016/</guid>
+      <description>Adroitness WINNER Judges&#39; Choice Inspiration When elderly home alone, they got nothing to do. Adroitness provide a simple and safe exercise training for them.
+What it does It detects the gesture and the motion through the exercise.
+How we built it We build an Android Prototype with Beacon (Estimote).
+Challenges we ran into motion detection.
+Accomplishments that we&amp;rsquo;re proud of fulfill corporate social responsibility
+What we learned M2X, CC3200 Launch Pad</description>
+    </item>
+    
+    <item>
+      <title>Tech X Social Idea Generation Zone Competition, NGO Day 2015</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/tech-x-social-idea-generation-zone-competition-ngo-day-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 16:28:00 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/tech-x-social-idea-generation-zone-competition-ngo-day-2015/</guid>
+      <description>This competition is organized by Microsoft Hong Kong and The Hong Kong Council of Social Service. It adds this year which young entrepreneurs and students from tertiary institutions have been invited to discuss different ways of using social media, online promotion and different ICT tools to promote stakeholder engagement.
+Four ISD Year 2 students (Pang Long Ting, Chan Ho Yam, Cheng Kai Hin, Cheung Yuk Kwan) used their group project in the course of AST20404 Information Systems in Business - “Come Here” for participating in preliminary round of the competition.</description>
+    </item>
+    
   </channel>
 </rss>

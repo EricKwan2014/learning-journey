@@ -34,6 +34,152 @@
   
   <url>
     <loc>https://erickwan2014.github.io/learning-journey/categories/</loc>
+    <lastmod>2017-09-01T03:36:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/posts/ovirt-guest-agent/</loc>
+    <lastmod>2017-09-01T03:36:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/ovirt/</loc>
+    <lastmod>2017-09-01T03:36:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/ovirt/</loc>
+    <lastmod>2017-09-01T03:36:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/vms/</loc>
+    <lastmod>2017-09-01T03:36:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/vms/</loc>
+    <lastmod>2017-09-01T03:36:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/nginx/</loc>
+    <lastmod>2017-08-04T14:09:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/nginx/</loc>
+    <lastmod>2017-08-04T14:09:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/reverse-proxy/</loc>
+    <lastmod>2017-08-04T14:09:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/reverse-proxy/</loc>
+    <lastmod>2017-08-04T14:09:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/posts/using-nginx-as-a-reverse-proxy/</loc>
+    <lastmod>2017-08-04T14:09:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/laravel/</loc>
+    <lastmod>2017-04-06T17:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/laravel/</loc>
+    <lastmod>2017-04-06T17:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/permission/</loc>
+    <lastmod>2017-04-06T17:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/permission/</loc>
+    <lastmod>2017-04-06T17:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/server/</loc>
+    <lastmod>2017-04-06T17:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/server/</loc>
+    <lastmod>2017-04-06T17:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/posts/server-documentation-for-laravel/</loc>
+    <lastmod>2017-04-06T17:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/bitwise/</loc>
+    <lastmod>2016-04-12T16:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/bitwise/</loc>
+    <lastmod>2016-04-12T16:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/posts/bitwisehacks-2016/</loc>
+    <lastmod>2016-04-12T16:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/hackathon/</loc>
+    <lastmod>2016-04-12T16:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/hackathon/</loc>
+    <lastmod>2016-04-12T16:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/idea-generation/</loc>
+    <lastmod>2015-06-01T16:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/idea-generation/</loc>
+    <lastmod>2015-06-01T16:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/microsoft/</loc>
+    <lastmod>2015-06-01T16:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/microsoft/</loc>
+    <lastmod>2015-06-01T16:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/ngo-day/</loc>
+    <lastmod>2015-06-01T16:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/ngo-day/</loc>
+    <lastmod>2015-06-01T16:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erickwan2014.github.io/learning-journey/posts/tech-x-social-idea-generation-zone-competition-ngo-day-2015/</loc>
+    <lastmod>2015-06-01T16:28:00+00:00</lastmod>
   </url>
   
 </urlset>
