@@ -18,15 +18,24 @@ params:
   description: Eric's Learning Journey
   author: Eric
 
-  defaultTheme: dark
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
   disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
   disableSpecial1stPost: false
+  disableScrollToTop: false
   comments: false
   hidemeta: false
-  showtoc: true
+  hideSummary: false
+  showtoc: false
   tocopen: false
 
   # home-info mode
