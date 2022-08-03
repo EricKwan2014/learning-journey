@@ -1,5 +1,5 @@
 ---
-author: "EricKwan"
+author: "Eric Cheung"
 categories: ["nginx", "reverse-proxy"]
 date: 2017-08-04T14:09:31Z
 description: ""

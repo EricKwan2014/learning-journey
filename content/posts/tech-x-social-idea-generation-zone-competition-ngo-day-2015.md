@@ -1,5 +1,5 @@
 ---
-author: "EricKwan"
+author: "Eric Cheung"
 categories: ["Microsoft", "Ngo Day", "Idea Generation"]
 date: 2015-06-01T16:28:00Z
 description: ""

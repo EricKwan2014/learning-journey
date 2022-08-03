@@ -1,5 +1,5 @@
 ---
-author: "EricKwan"
+author: "Eric Cheung"
 categories: ["hackathon", "bitwise"]
 date: 2016-04-12T16:39:00Z
 description: ""
