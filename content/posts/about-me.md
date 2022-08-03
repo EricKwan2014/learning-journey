@@ -39,3 +39,7 @@ Eric Cheung - [LinkedIn Profile](https://www.linkedin.com/in/eric-cheung-5647311
 [Resume](/learning-journey/docs/resume.pdf)
 
 [References](/learning-journey/docs/ref.pdf)
+
+[TrueTone (FYP - Certificate of Merit)](https://www.youtube.com/watch?v=P8HC_e3RrGE)
+
+[BitwiseHacks 2016 WINNER](https://devpost.com/software/adroitness)
