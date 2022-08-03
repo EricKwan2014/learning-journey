@@ -14,6 +14,10 @@ title: "Aloha, I'm Eric!"
 
 I’m excited by new technologies that can significantly change our lifestyles. I never settle for average. My best skill is that I am a team player.
 
+I have over six years of core experience building and scaling Web applications using Node.js/PHP.
+
+I've also experienced in software development: MEAN & MERN Stack(Javascript, React, NextJS, NodeJS), PHP - Database Technology: MYSQL, MongoDB, PostgreSQL.
+
 ---
 
 ## Work Experience
