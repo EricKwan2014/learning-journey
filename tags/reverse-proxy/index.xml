@@ -14,8 +14,9 @@
       <guid>https://erickwan2014.github.io/learning-journey/posts/using-nginx-as-a-reverse-proxy/</guid>
       <description>Why nginx It&amp;rsquo;s not any better/worse at serving static files than Apache. However, the big difference is that nginx can serve a lot more users without using up additional resources.
 Example Setup Firstly, you need to create a site configuration at /etc/nginx/sites-available
-cd /etc/nginx/sites-available sudo [vim/nano(any editor)] yoursite.com.conf  Then you can ready to prototype your coding
-Below are the example server coding setup and will be describe deeply later.</description>
+cd /etc/nginx/sites-available sudo [vim/nano(any editor)] yoursite.com.conf Then you can ready to prototype your coding
+Below are the example server coding setup and will be describe deeply later.
+server { listen 80; listen [::]:80; listen 443 ssl [ssl section] http2 (Optional); // you can decide whethere to use the HTTP/2 Protocol listen [::]:443 ssl [ssl section] http2 (Optional); server_name http://example.</description>
     </item>
     
   </channel>

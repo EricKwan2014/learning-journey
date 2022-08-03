@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/about-me/</loc>
+    <lastmod>2022-08-03T16:39:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/about-me/</loc>
+    <lastmod>2022-08-03T16:39:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erickwan2014.github.io/learning-journey/posts/about-me/</loc>
+    <lastmod>2022-08-03T16:39:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erickwan2014.github.io/learning-journey/categories/</loc>
+    <lastmod>2022-08-03T16:39:00+00:00</lastmod>
+  </url><url>
     <loc>https://erickwan2014.github.io/learning-journey/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-03T16:39:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erickwan2014.github.io/learning-journey/posts/</loc>
+    <lastmod>2022-08-03T16:39:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erickwan2014.github.io/learning-journey/tags/</loc>
+    <lastmod>2022-08-03T16:39:00+00:00</lastmod>
   </url><url>
     <loc>https://erickwan2014.github.io/learning-journey/tags/learn/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
@@ -11,17 +29,8 @@
     <loc>https://erickwan2014.github.io/learning-journey/tags/npm/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erickwan2014.github.io/learning-journey/posts/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://erickwan2014.github.io/learning-journey/posts/private-npm-repo/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erickwan2014.github.io/learning-journey/tags/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erickwan2014.github.io/learning-journey/categories/</loc>
-    <lastmod>2017-09-01T03:36:08+00:00</lastmod>
   </url><url>
     <loc>https://erickwan2014.github.io/learning-journey/posts/ovirt-guest-agent/</loc>
     <lastmod>2017-09-01T03:36:08+00:00</lastmod>

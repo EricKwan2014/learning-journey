@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>about-me on Eric&#39;s Learning Journey</title>
+    <link>https://erickwan2014.github.io/learning-journey/categories/about-me/</link>
+    <description>Recent content in about-me on Eric&#39;s Learning Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Aug 2022 16:39:00 +0000</lastBuildDate><atom:link href="https://erickwan2014.github.io/learning-journey/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aloha, I&#39;m Eric!</title>
+      <link>https://erickwan2014.github.io/learning-journey/posts/about-me/</link>
+      <pubDate>Wed, 03 Aug 2022 16:39:00 +0000</pubDate>
+      
+      <guid>https://erickwan2014.github.io/learning-journey/posts/about-me/</guid>
+      <description>Getting Started I’m excited by new technologies that can significantly change our lifestyles. I never settle for average. My best skill is that I am a team player.
+Work Experience Previously, I was a Senior Software Engineer at WeLend, where I developed the backend system in an innovative subscription program - the &amp;ldquo;Subscribe+ for Apple Products&amp;rdquo; program for purchasing Apple products 🍎 with Apple authorized resellers, which is the first financial services provider in Asia.</description>
+    </item>
+    
+  </channel>
+</rss>
