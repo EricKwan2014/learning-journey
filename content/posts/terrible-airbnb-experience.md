@@ -11,7 +11,7 @@ title: "Airbnb Host Tries to Scam Guest for Repair Fee: A Timeline Analysis"
 
 This video showcases a series of interactions between an Airbnb guest, Eric, and the Co-Host from "Team Give," highlighting a potential scam attempt.
 [The terrible Airbnb in Canmore (Team Give)](https://www.airbnb.ca/rooms/735478457806201978)
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg)](https://drive.google.com/file/d/1bK3EM7BunxxJWietQU86jVaUyrg_R7lB/view?usp=drive_link)
 
 ## Day 1
 
